@@ -1,0 +1,7 @@
+Execution context in JS - 
+1. Global Executioin - globaly executes code with 'this'
+2. Memory phase - allocates memory for each variable with 'undefined' value 
+3. Execution phase - value allocation to each variable
+
+ - for each and every fun in code there is seperate execution context
+ - results of fun in execution phase is returned to global exe ct.
